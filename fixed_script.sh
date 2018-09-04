@@ -2,7 +2,7 @@
 
 # You will change this line later
 echo "This script has typos. Please fix them."
-# You will also change this line later
+# This is a conflicting message
 
 echo "Positive integers from 005 to 100:"
 <<<<<<< HEAD
