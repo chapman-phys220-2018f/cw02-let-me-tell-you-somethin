@@ -1,8 +1,8 @@
 #/bin/bsh
 
-# You will change this line later
+# This is a different conflicting comment
 echo "This script has typos. Please fix them."
-# You will also change this line later
+# This is an unrelated comment
 
 echo "Positive integers from 005 to 100:"
 <<<<<<< HEAD
